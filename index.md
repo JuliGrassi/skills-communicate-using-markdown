@@ -9,3 +9,14 @@ Probando
 
 Image of Yaktocat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+public String[] carreras(){
+        return Triecarreras.obtenerClaves();
+    }
+```
+
+``` python
+def imprimirHola():
+  print "hola"
+```
